@@ -1,8 +1,9 @@
 |   |   |   |
 |---|---|---|
+|   |   |   |
 |   |   |06--U-Net   |
 |07--nnU-Net   |08--DeepLabv3+   |09--U-Net++   |
-|10--FPN   |11--Transformer   |   |
+|10--FPN   |11--Transformer   |12--FCN   |
 |   |   |   |
 |   |   |   |
 |   |   |   |
